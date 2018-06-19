@@ -1,9 +1,8 @@
 # PRG -- Ročníkový projekt, 3. ročník
 
-1. přepište tento soubor
-1. napište sem název a zadání svého projektu
-1. v souboru [LICENSE](LICENSE) si nastavte licenci
-1. pracujte a **průběžně** sem nahrávejte své zdrojové kódy
+2048
+základní verze hry 2048
+
 
 
 ## Několik inspirujících odkazů
