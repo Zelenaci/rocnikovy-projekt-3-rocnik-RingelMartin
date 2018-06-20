@@ -1,7 +1,12 @@
 # PRG -- Ročníkový projekt, 3. ročník
 
-2048
+
 základní verze hry 2048
+
+ovládání:up, down, left, right +stop(restart)
+
+pole 4x4
+
 
 
 
